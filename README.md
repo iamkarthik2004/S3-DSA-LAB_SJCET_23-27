@@ -1,6 +1,6 @@
 # S3-DSA-LAB_SJCET_23-27
-#2019 SCHEME
-#DS-LAB-SYLLABUS
+# 2019 SCHEME
+# DS-LAB-SYLLABUS
 
 SYLLABUS
 1. Implementation of Polynomials and Sparse matrices using arrays**
