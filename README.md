@@ -2,29 +2,31 @@
 # KTU 2019 SCHEME
 # DS-LAB-SYLLABUS
 
-SYLLABUS
-1. Implementation of Polynomials and Sparse matrices using arrays**
-2. Implementation of Stack , Queues, Priority Queues, DEQUEUE and Circular Queues
-using arrays**
-3. Application problems using stacks: Conversion of expression from one notation to
-another notation . **
-4. Implementation of various linked list operations. **
-5. Implementation of stack, queue and their applications using linked list.pression
-6. Implementation of trees using linked list
-7. Representation of polynomials using linked list, addition and multiplication of
-polynomials. **
-8. Implementation of binary trees using linked lists and arrays- creations, insertion, deletion
-and traversal. **
-9. Implementation of binary search trees – creation, insertion, deletion, search
-10. Any application programs using trees
-11. Implementation of sorting algorithms – bubble, insertion, selection, quick, merge sort 
-and heap sort.**
-12. Implementation of searching algorithms – linear search, binary search.**
-13. Representation of graphs and computing various parameters (in degree, out degree etc.) -
-adjacency list, adjacency matrix.
-14. Implementation of BFS and DFS for each graph representations.**
-15. Implementation of hash table using your own mapping functions and observe collisions
-and overflow resolving schemes.**
-16. Simulation of first-fit, best-fit and worst-fit allocations.
-17. Simulation of a basic memory allocator and garbage collector using doubly linked list.
-** mandatory. 
+ 
+ 
+ 
+St. Joseph's College of Engineering and Technology, Palai 
+Department of Computer Science and Engineering 
+CSL 201 DATA STRUCTURES LAB 
+ 
+List of Experiments 
+2019 Regulation 
+ 
+Exp. No. Name of Experiment COs 
+1) Implementation of linear search and binary search along with time and 
+space complexity evaluation. CO3 
+2) Implementation of selection sort and bubble sort along with time and 
+space complexity evaluation. CO2 
+3) Implementation of sparse matrices using arrays CO1 
+4) Representation of polynomial using arrays CO1 
+5) Implementation of stack, queue using arrays CO4 
+6) Implementation of Circular Queue using arrays CO1 
+7) Conversion of expression from one notation to another CO5 
+8) Implementation of Linked List operations CO4 
+9) Polynomial addition using linked list CO1 
+10) Implementation of binary trees using arrays CO1 
+11) Implementation of insertion and quick CO2 
+12) Implementation of merge sort CO2 
+13) Implementation of hash table with overflow handling technique CO1 
+14) Simulation of a basic memory allocation and garbage collector   CO6 
+ 
