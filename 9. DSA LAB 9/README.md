@@ -1,12 +1,15 @@
 MERGE SORT - ALGORITHM
 Algorithm: Binary Tree Node Selection
 STEP 1: START
+
 STEP 2: Declare integer variables i, n (number of nodes), p (position of selected node), and arr[50] (array to hold node values).
 
 STEP 3: Print "Enter the number of nodes: ".
+
 STEP 4: Read the number of nodes and store it in n.
 
 STEP 5: Print "Enter the nodes: ".
+
 STEP 6: For i from 1 to n:
     a. Read the value for arr[i].
 
