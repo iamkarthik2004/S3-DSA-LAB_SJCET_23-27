@@ -5,16 +5,16 @@ BINARY TREE
 
 #include <stdio.h>
 
-void main() {
-    int i = 0, n, p;
+int main() {
+    int i = 0, n, p, qn;
     int arr[50];
 
     // Input number of nodes
-    printf("Enter the Number of Nodes : ");
+    printf("Enter the number of nodes : ");
     scanf("%d", &n);
 
     // Input nodes
-    printf("Enter the nodes: \n");
+    printf("Enter the nodes : \n");
     for (i = 1; i <= n; i++) {
         scanf("%d", &arr[i]);
     }
@@ -63,4 +63,6 @@ void main() {
             printf("Right Child: %d\n", arr[2 * p + 1]);
         }
     }
+    return 0;
 }
+
