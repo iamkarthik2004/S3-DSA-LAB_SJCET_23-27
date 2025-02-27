@@ -39,8 +39,8 @@ Click below to access each **experiment folder**:
 - 🔹 **[LAB 6](https://github.com/iamkarthik2004/S3-DSA-LAB_SJCET_23-27/tree/main/6.%20DSA%20LAB%206)**
 - 🔹 **[LAB 7](https://github.com/iamkarthik2004/S3-DSA-LAB_SJCET_23-27/tree/main/7.%20DSA%20LAB%207)**
 - 🔹 **[LAB 8](https://github.com/iamkarthik2004/S3-DSA-LAB_SJCET_23-27/tree/main/8.%20DSA%20LAB%208)**
-  🔹 **[LAB 9](https://github.com/iamkarthik2004/S3-DSA-LAB_SJCET_23-27/tree/main/9.%20DSA%20LAB%209)**
-  🔹 **[LAB 10](https://github.com/iamkarthik2004/S3-DSA-LAB_SJCET_23-27/tree/main/10.%20DSA%20LAB%2010)**
+- 🔹 **[LAB 9](https://github.com/iamkarthik2004/S3-DSA-LAB_SJCET_23-27/tree/main/9.%20DSA%20LAB%209)**
+- 🔹 **[LAB 10](https://github.com/iamkarthik2004/S3-DSA-LAB_SJCET_23-27/tree/main/10.%20DSA%20LAB%2010)**
 
 
 ## 🤝 Contributing  
