@@ -31,16 +31,16 @@ For a complete reference, check the official **KTU Data Structures syllabus** be
 ## 📂 Experiment Folders  
 Click below to access each **experiment folder**:  
 
-🔹 **[LAB 1](https://github.com/iamkarthik2004/S3-DSA-LAB_SJCET_23-27/tree/main/1.%20DSA%20LAB%201)**
-🔹 **[LAB 2](https://github.com/iamkarthik2004/S3-DSA-LAB_SJCET_23-27/tree/main/2.%20DSA%20LAB%202)**
-🔹 **[LAB 3](https://github.com/iamkarthik2004/S3-DSA-LAB_SJCET_23-27/tree/main/3.%20DSA%20LAB%203)**
-🔹 **[LAB 4](https://github.com/iamkarthik2004/S3-DSA-LAB_SJCET_23-27/tree/main/4.%20DSA%20LAB%204)**
-🔹 **[LAB 5](https://github.com/iamkarthik2004/S3-DSA-LAB_SJCET_23-27/tree/main/5.%20DSA%20LAB%205)**
-🔹 **[LAB 6](https://github.com/iamkarthik2004/S3-DSA-LAB_SJCET_23-27/tree/main/6.%20DSA%20LAB%206)**
-🔹 **[LAB 7](https://github.com/iamkarthik2004/S3-DSA-LAB_SJCET_23-27/tree/main/7.%20DSA%20LAB%207)**
-🔹 **[LAB 8](https://github.com/iamkarthik2004/S3-DSA-LAB_SJCET_23-27/tree/main/8.%20DSA%20LAB%208)**
-🔹 **[LAB 9](https://github.com/iamkarthik2004/S3-DSA-LAB_SJCET_23-27/tree/main/9.%20DSA%20LAB%209)**
-🔹 **[LAB 10](https://github.com/iamkarthik2004/S3-DSA-LAB_SJCET_23-27/tree/main/10.%20DSA%20LAB%2010)**
+- 🔹 **[LAB 1](https://github.com/iamkarthik2004/S3-DSA-LAB_SJCET_23-27/tree/main/1.%20DSA%20LAB%201)**
+- 🔹 **[LAB 2](https://github.com/iamkarthik2004/S3-DSA-LAB_SJCET_23-27/tree/main/2.%20DSA%20LAB%202)**
+- 🔹 **[LAB 3](https://github.com/iamkarthik2004/S3-DSA-LAB_SJCET_23-27/tree/main/3.%20DSA%20LAB%203)**
+- 🔹 **[LAB 4](https://github.com/iamkarthik2004/S3-DSA-LAB_SJCET_23-27/tree/main/4.%20DSA%20LAB%204)**
+- 🔹 **[LAB 5](https://github.com/iamkarthik2004/S3-DSA-LAB_SJCET_23-27/tree/main/5.%20DSA%20LAB%205)**
+- 🔹 **[LAB 6](https://github.com/iamkarthik2004/S3-DSA-LAB_SJCET_23-27/tree/main/6.%20DSA%20LAB%206)**
+- 🔹 **[LAB 7](https://github.com/iamkarthik2004/S3-DSA-LAB_SJCET_23-27/tree/main/7.%20DSA%20LAB%207)**
+- 🔹 **[LAB 8](https://github.com/iamkarthik2004/S3-DSA-LAB_SJCET_23-27/tree/main/8.%20DSA%20LAB%208)**
+  🔹 **[LAB 9](https://github.com/iamkarthik2004/S3-DSA-LAB_SJCET_23-27/tree/main/9.%20DSA%20LAB%209)**
+  🔹 **[LAB 10](https://github.com/iamkarthik2004/S3-DSA-LAB_SJCET_23-27/tree/main/10.%20DSA%20LAB%2010)**
 
 
 ## 🤝 Contributing  
